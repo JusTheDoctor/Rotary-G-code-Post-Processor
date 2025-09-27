@@ -9,3 +9,9 @@ This Python tool converts XZ-plane G-code into indexed rotary motion compatible 
 
 ## Web Interface
 Access the web-based interface here: https://cnc-rotary-axis-g-code-converter-seven.vercel.app/	  
+
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17211808.svg)](https://doi.org/10.5281/zenodo.17211808)
+
+
